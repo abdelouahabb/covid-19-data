@@ -1,8 +1,0 @@
-location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Chad,2021-06-10,Sinopharm/Beijing,https://covid19.who.int/,5324,5324,0
-Chad,2021-06-23,Sinopharm/Beijing,https://africacdc.org/covid-19-vaccination/,8981,8981,0
-Chad,2021-06-28,Sinopharm/Beijing,https://covid19.who.int/,9799,9799,0
-Chad,2021-07-05,Sinopharm/Beijing,https://covid19.who.int/,14604,10920,3684
-Chad,2021-07-07,Sinopharm/Beijing,https://africacdc.org/covid-19-vaccination/,20478,15966,4512
-Chad,2021-07-15,Sinopharm/Beijing,https://africacdc.org/covid-19-vaccination/,24459,18484,5975
-Chad,2021-07-21,Sinopharm/Beijing,https://africacdc.org/covid-19-vaccination/,28810,21581,7229

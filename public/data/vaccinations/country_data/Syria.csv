@@ -1,7 +1,0 @@
-location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Syria,2021-03-01,Sputnik V,https://www.aljazeera.com/news/2021/3/17/syria-launches-covid-vaccination-drive-amid-economic-challenges,0,0,0
-Syria,2021-04-08,Sputnik V,http://www.xinhuanet.com/english/africa/2021-04/08/c_139867196.htm,2500,2500,0
-Syria,2021-05-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,24781,24781,0
-Syria,2021-06-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,71519,71519,0
-Syria,2021-06-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,108276,102319,5957
-Syria,2021-07-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,131221,121909,9312

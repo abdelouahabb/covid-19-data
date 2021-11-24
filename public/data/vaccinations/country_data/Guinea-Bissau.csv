@@ -1,5 +1,0 @@
-location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Guinea-Bissau,2021-05-12,"Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,5889,5889,0
-Guinea-Bissau,2021-06-08,"Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,18706,18706,0
-Guinea-Bissau,2021-06-28,"Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,22883,21855,1028
-Guinea-Bissau,2021-07-19,"Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,25225,24000,1225
