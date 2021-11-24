@@ -1,6 +1,0 @@
-location,iso_code,population,source
-England,OWID_ENG,56550000,https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2020
-Scotland,OWID_SCT,5466000,https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2020
-Wales,OWID_WLS,3170000,https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2020
-Northern Ireland,OWID_NIR,1896000,https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2020
-Northern Cyprus,OWID_CYN,382230,http://www.stat.gov.ct.tr/IST-YIL-2019.aspx

@@ -1,6 +1,0 @@
-location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Djibouti,2021-04-17,Oxford/AstraZeneca,https://reliefweb.int/report/iran-islamic-republic/covid-19-situation-updates-week-15-11-17-april-2021,10246,10246,0
-Djibouti,2021-04-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,13042,12547,495
-Djibouti,2021-05-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,14943,12547,2396
-Djibouti,2021-06-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,21357,12547,8810
-Djibouti,2021-06-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,26796,,

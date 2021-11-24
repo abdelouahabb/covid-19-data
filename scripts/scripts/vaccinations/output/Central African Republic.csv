@@ -1,9 +1,0 @@
-location,date,vaccine,total_vaccinations,source_url,people_vaccinated,people_fully_vaccinated
-Central African Republic,2021-05-12,"Covaxin, Oxford/AstraZeneca",667,https://covid19.who.int/,667,0
-Central African Republic,2021-05-31,"Covaxin, Oxford/AstraZeneca",18408,https://covid19.who.int/,18408,0
-Central African Republic,2021-06-08,"Covaxin, Oxford/AstraZeneca",26541,https://covid19.who.int/,26541,0
-Central African Republic,2021-06-14,"Covaxin, Oxford/AstraZeneca",29757,https://covid19.who.int/,29757,0
-Central African Republic,2021-06-15,"Covaxin, Oxford/AstraZeneca",42644,https://covid19.who.int/,42644,0
-Central African Republic,2021-06-23,"Covaxin, Oxford/AstraZeneca",78137,https://africacdc.org/covid-19-vaccination/,78137,0
-Central African Republic,2021-06-30,"Covaxin, Oxford/AstraZeneca",78685,https://africacdc.org/covid-19-vaccination/,78685,0
-Central African Republic,2021-07-19,"Covaxin, Oxford/AstraZeneca",92041,https://covid19.who.int/,85381,6660

@@ -1,7 +1,0 @@
-location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Nicaragua,2021-03-01,"Oxford/AstraZeneca, Sputnik V",https://www.confidencial.com.ni/nacion/gobierno-de-nicaragua-informa-avances-vacunacion-contra-la-covid-19-con-44-dias-de-retraso/,0,0,
-Nicaragua,2021-04-14,"Oxford/AstraZeneca, Sputnik V",https://www.confidencial.com.ni/nacion/gobierno-de-nicaragua-informa-avances-vacunacion-contra-la-covid-19-con-44-dias-de-retraso/,61625,61625,
-Nicaragua,2021-04-24,"Oxford/AstraZeneca, Sputnik V",https://www.confidencial.com.ni/nacion/mas-de-132-000-personas-ya-recibieron-la-primera-dosis-de-la-vacuna-covishield/,135130,135130,
-Nicaragua,2021-05-07,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,166350,166350,0
-Nicaragua,2021-05-21,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,167500,167500,0
-Nicaragua,2021-07-16,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,415640,252766,162874

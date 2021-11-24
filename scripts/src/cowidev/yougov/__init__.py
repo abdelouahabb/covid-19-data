@@ -1,3 +1,0 @@
-"""
-python -m cowidev.yougov
-"""
